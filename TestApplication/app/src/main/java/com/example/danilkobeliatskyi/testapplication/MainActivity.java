@@ -9,7 +9,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-    public View view;
+    private View view;
 
     @SuppressLint("ClickableViewAccessibility")
     @Override
